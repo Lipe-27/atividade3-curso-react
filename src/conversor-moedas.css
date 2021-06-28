@@ -1,0 +1,29 @@
+.hidden{
+    display: none;
+}
+
+.botao{
+    margin-left: 150px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text{
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+
+.select1{
+    margin-left: 25px;
+}
+
+.text-center{
+    margin-left: 150px;
+}
+
+.titulo{
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+
